@@ -24,7 +24,7 @@ Paper submissions will be managed by the Program Chairs and sent to the Program 
 
 Submissions should be no more than 8 pages long — shorter papers are welcome — and formatted according to the [VGTC formatting guidelines](http://junctionpublishing.org/vgtc/Tasks/camera.html).
 
-To submit a paper please use the [Precision Conference System](https://new.precisionconference.com/submissions). After logging in go to “new submissions” and select “Submit to Papers” for VDS 2018.
+To submit a paper please use the [Precision Conference System](https://new.precisionconference.com/submissions). After logging in go to “new submissions” and select “Submit to Papers” for VDS 2019.
 
 
 ## Abstracts / Talks
@@ -52,12 +52,12 @@ Formatting is informal, we encourage creativity. Please limit your abstract to o
  * a picture showing an application of visualization in data science (not necessary for position statements),
  * for previously published work: a reference to the original paper.
 
-To submit a paper please use the [Precision Conference System](https://new.precisionconference.com/submissions). After logging in go to "new submissions" and select "Submit to Abstracts/Talks" for VDS 2018.
+To submit a paper please use the [Precision Conference System](https://new.precisionconference.com/submissions). After logging in go to "new submissions" and select "Submit to Abstracts/Talks" for VDS 2019.
 
 ### Important Dates
 
-**July 16, 2018, 5:00pm PDT**: Paper and Abstract Submission
+**[TBD]**: Paper and Abstract Submission
 
-August 24, 2018: Author Notification
+[TBD]: Author Notification
 
-August 31, 2018: Camera-ready Copy for Accepted Submissions
+[TBD]: Camera-ready Copy for Accepted Submissions
