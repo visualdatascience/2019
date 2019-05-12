@@ -56,8 +56,10 @@ To submit a paper please use the [Precision Conference System](https://new.preci
 
 ### Important Dates
 
-**[TBD]**: Paper and Abstract Submission
+**[Tue, July 16, 2019, 5:00pm PDT]**: Paper and Abstract Submission
 
-[TBD]: Author Notification
+[Fri, August 23, 2019]: Author Notification
 
-[TBD]: Camera-ready Copy for Accepted Submissions
+[Fri, August 30, 2019]: Camera-ready Copy for Accepted Submissions
+
+
