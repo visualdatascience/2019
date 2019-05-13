@@ -7,8 +7,8 @@ url: "http://www.visualdatascience.org/"
 conferenceshort: "VDS 2019"
 conferencedate: "Sunday, October 20th, 2019"
 
-deadline_submission: "[TBD]"
-deadline_notification: "[TBD]"
+deadline_submission: "Tue, July 16, 2019"
+deadline_notification: "Fri, August 23, 2019"
 
 # Build settings
 markdown: kramdown
