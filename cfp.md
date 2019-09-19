@@ -19,10 +19,9 @@ Papers that integrate visualization with any stages of the data science pipeline
 Paper submissions will be managed by the Program Chairs and sent to the Program Committee to evaluate the work’s novelty and significance. You have the option to have your work reviewed via a double-blind process; to do this, simply be sure to exclude all identifying information in the submitted manuscript file, ensuring that the reviewers will not know the identify of the authors. Otherwise, the review process will be single-blind, i.e., the reviewers will know the identity of the authors, but the authors will not know the identity of the reviewers.
 
 
-### Paper Submission and Formatting Guidelines (8 pages max)
+### Paper Submission and Formatting Guidelines (8 pages max excluding references)
 
-
-Submissions should be no more than 8 pages long — shorter papers are welcome — and formatted according to the [VGTC formatting guidelines](http://junctionpublishing.org/vgtc/Tasks/camera.html).
+Submissions should be no more than 8 pages long excluding references — shorter papers are welcome — and formatted according to the [VGTC formatting guidelines](http://junctionpublishing.org/vgtc/Tasks/camera.html).
 
 To submit a paper please use the [Precision Conference System](https://new.precisionconference.com/submissions). After logging in go to “new submissions” and select “Submit to Papers” for VDS 2019.
 
