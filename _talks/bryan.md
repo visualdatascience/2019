@@ -5,7 +5,7 @@ website: https://github.com/jennybc
 affiliation: RStudio
 title: Behind every great vis ...  there's a great deal of wrangling
 time: TBD
-picture: bryan.jpeg
+picture: bryan.jpg
 picture-note: Jenny Bryan
 slides: 
 bio: |

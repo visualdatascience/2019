@@ -1,7 +1,7 @@
 ---
 key: gelman
 speaker: Andrew Gelman
-website: 
+website: http://www.stat.columbia.edu/~gelman/
 affiliation: Department of Statistics and Department of Political Science, Columbia University
 title: Uncovering Principles of Statistical Visualization
 time: TBD
